@@ -1,0 +1,18 @@
+Writing Better Prompts
+The goal of this task is to understand how clarity, specificity, and tone affect an AI model’s response
+by improving vague prompts.
+Vague Prompt Improved Prompt Explanation of Improvement
+Explain climate change. Explain climate change in 3 bullet points as if you are talking to a 12-year-old student. Added clarity, age context, and output format.
+Write a paragraph about teamwork. Write a short motivational paragraph (5 lines) on teamwork for a company newsletter. Added length, tone, and audience specification.
+Tell me about AI. Explain what Artificial Intelligence is, list 2 real-life examples, and describe one benefit and onAdded structure and specific content requirements.
+
+Comparison of Outputs:
+
+Vague Prompt: Explain climate change.
+Output: Climate change is when Earth’s temperature rises. It affects weather and animals.
+
+Improved Prompt: Explain climate change in 3 bullet points as if you are talking to a 12-year-old.
+Output:
+• Earth is getting hotter due to pollution.
+• Ice melts faster and animals lose homes.
+• More floods and heatwaves occur.
